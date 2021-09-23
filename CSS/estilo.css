@@ -1,8 +1,8 @@
 body{
-    background-color: lightskyblue;
+    background-color: rgb(135, 250, 212);
 }
 .col{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.842);
 }
 .container{
     margin-top:20px;
